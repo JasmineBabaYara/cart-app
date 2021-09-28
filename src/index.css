@@ -1,13 +1,38 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+h1{
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+p{
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.applebtn{
+  position: absolute;
+  top: 6.5rem;
+  margin-left: 34rem;
+}
+
+.bananabtn{
+  position: absolute;
+  top: 9rem;
+  margin-left: 34rem;
+}
+
+.orangebtn{
+  position: absolute;
+  top: 11.5rem;
+  margin-left: 34rem;
+}
+
+.grapesbtn{
+  position: absolute;
+  top: 14rem;
+  margin-left: 34rem;
+}
+
+.strawberrybtn{
+  position: absolute;
+  top: 16.7rem;
+  margin-left: 34rem;
 }
